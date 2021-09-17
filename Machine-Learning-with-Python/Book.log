@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.30)  15 SEP 2021 22:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.30)  16 SEP 2021 22:24
 entering extended mode
 **./Book.tex
 (Book.tex
@@ -129,7 +129,8 @@ tex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box53
-) (Book.aux (Week1.aux) (Week2.aux) (Week3.aux) (Week4.aux))
+) (Book.aux (Week1.aux) (Week2.aux) (Week3.aux) (Week4.aux) (Week5.aux)
+(Week6.aux))
 \openout1 = `Book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -269,36 +270,56 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Chapter 4.
-) [47] (Book.aux (Week1.aux) (Week2.aux) (Week3.aux) (Week4.aux)) ) 
+) [47]
+\openout2 = `Week5.aux'.
+
+ (Week5.tex [48
+
+
+
+
+]
+Chapter 5.
+) [49]
+\openout2 = `Week6.aux'.
+
+ (Week6.tex [50
+
+
+
+
+]
+Chapter 6.
+) [51] (Book.aux (Week1.aux) (Week2.aux) (Week3.aux) (Week4.aux) (Week5.aux)
+(Week6.aux)) ) 
 Here is how much of TeX's memory you used:
- 2536 strings out of 478864
- 39769 string characters out of 2848660
- 367502 words of memory out of 3000000
- 20433 multiletter control sequences out of 15000+600000
+ 2562 strings out of 478864
+ 40735 string characters out of 2848660
+ 368810 words of memory out of 3000000
+ 20445 multiletter control sequences out of 15000+600000
  410582 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,10n,80p,12144b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\l
-uisc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Us
-ers/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.p
-fb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmex10.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmmi10.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/luisc/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/luisc/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/luisc/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/luisc/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/
-luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
-/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl1
-0.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmsy7.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Book.pdf (47 pages, 349283 bytes).
+ 70i,10n,80p,11932b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\luisc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1000.pk><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/luisc/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/luisc/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/luisc/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/luisc
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Use
+rs/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr17.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr5.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsl10.pfb><C:/Users/luisc/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luisc/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/luisc/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Book.pdf (51 pages, 351506 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
+ 245 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
